@@ -1,4 +1,4 @@
-module api/todo
+module github.com/EduardoSilvaDiniz/api-postgresql
 
 go 1.22.2
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	apiConfig "api/todo/configs/config"
+	"github.com/EduardoSilvaDiniz/api-postgresql/src/configs/"
 
 	"fmt"
 )
